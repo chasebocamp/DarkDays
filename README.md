@@ -21,4 +21,24 @@ DarkDays is a 2D side-scrolling psychological horror roguelike developed for the
 
     Launch the game from the Game -> Memory Stick menu on your XMB.
 
-    More information to come, but you get the gist.
+📊 Technical Specifications
+
+    Engine: Lutro (Lua-based)
+
+    Visual Style: 2D Pixel Art / Side-scroller
+
+    Native Resolution: 480 × 272 (PSP Standard)
+
+    Estimated Total Size: ~50 MB (Highly Optimized)
+
+    Audio Format: OGG (Compressed for performance)
+
+🎮 Survival Mechanics
+
+    Dynamic Scavenging: Health, ammo, and batteries spawn in different locations every time you start a new turn.
+
+    Sector Clears: The game only saves once you successfully beat a specific area.
+
+    Permadeath-Lite: If you die, you lose all loot from your current run and restart from the last cleared area.
+
+    Fixed Ending: Despite the randomized journey, the narrative reaches a singular, haunting conclusion.
