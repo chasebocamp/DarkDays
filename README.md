@@ -12,8 +12,8 @@ Built on the Lutro engine, it delivers a claustrophobic, pixel-art experience ce
     Procedural loot and enemy spawns ensure no two runs are identical.
 
     Hardcore Save System: 
-    Progress is only recorded upon clearing specific sectors. 
-    Dying sends you back to your last successful sector clear.
+    Progress is only recorded upon clearing specific areas.
+    Dying sends you back to your last completed area.
 
     Lutro Powered: 
     Built using the LÖVE-inspired Lua framework
