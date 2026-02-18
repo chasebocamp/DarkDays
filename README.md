@@ -1,6 +1,6 @@
 *Dark Days*
 
-DarkDays is a 2D side-scrolling psychological horror roguelike developed for the PlayStation Portable (PSP). 
+A 2D side-scrolling psychological horror roguelike developed for the PlayStation Portable (PSP). 
 Built on the Lutro engine, it delivers a claustrophobic, pixel-art experience centered on resource management and high-stakes survival.
 🕹️ Features
 
