@@ -1,15 +1,18 @@
 DarkDays 🌑
 
-DarkDays is a 2D side-scrolling psychological horror roguelike developed for the PlayStation Portable (PSP). Built on the Lutro engine, it delivers a claustrophobic, pixel-art experience centered on resource management and high-stakes survival.
+DarkDays is a 2D side-scrolling psychological horror roguelike developed for the PlayStation Portable (PSP). 
+Built on the Lutro engine, it delivers a claustrophobic, pixel-art experience centered on resource management and high-stakes survival.
 🕹️ Features
 
-    2D Horror Atmosphere: Immersive, hand-crafted pixel art inspired by the "Lone Survivor" aesthetic, optimized for the PSP's screen.
+    2D Horror Atmosphere: Immersive, hand-crafted pixel art
+        inspired by the "Lone Survivor" aesthetic optimized for the PSP's screen.
 
     The Loop: Procedural loot and enemy spawns ensure no two runs are identical.
 
-    Hardcore Save System: Progress is only recorded upon clearing specific sectors. Dying sends you back to your last successful sector clear.
+    Hardcore Save System: Progress is only recorded upon clearing specific sectors. 
+    Dying sends you back to your last successful sector clear.
 
-    Lutro Powered: Built using the LÖVE-inspired Lua framework for smooth 2D performance on retro handheld hardware.
+    Lutro Powered: Built using the LÖVE-inspired Lua framework
 
 📂 Installation & Execution
 
@@ -35,10 +38,14 @@ DarkDays is a 2D side-scrolling psychological horror roguelike developed for the
 
 🎮 Survival Mechanics
 
-    Dynamic Scavenging: Health, ammo, and batteries spawn in different locations every time you start a new turn.
+    Dynamic Scavenging:
+    Health, ammo, and batteries spawn in different locations every time you start a new turn.
 
-    Sector Clears: The game only saves once you successfully beat a specific area.
+    Sector Clears: 
+    The game only saves once you successfully beat a specific area.
 
-    Permadeath-Lite: If you die, you lose all loot from your current run and restart from the last cleared area.
+    Permadeath-Lite: 
+    If you die, you lose all loot from your current run and restart from the last cleared area.
 
-    Fixed Ending: Despite the randomized journey, the narrative reaches a singular, haunting conclusion.
+    Fixed Ending:
+    Despite the randomized journey, the narrative reaches a singular, haunting conclusion.
