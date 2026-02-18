@@ -4,15 +4,18 @@ DarkDays is a 2D side-scrolling psychological horror roguelike developed for the
 Built on the Lutro engine, it delivers a claustrophobic, pixel-art experience centered on resource management and high-stakes survival.
 🕹️ Features
 
-    2D Horror Atmosphere: Immersive, hand-crafted pixel art
-        inspired by the "Lone Survivor" aesthetic optimized for the PSP's screen.
+    2D Horror Atmosphere: 
+    Immersive, hand-crafted pixel art
 
-    The Loop: Procedural loot and enemy spawns ensure no two runs are identical.
+    The Loop: 
+    Procedural loot and enemy spawns ensure no two runs are identical.
 
-    Hardcore Save System: Progress is only recorded upon clearing specific sectors. 
+    Hardcore Save System: 
+    Progress is only recorded upon clearing specific sectors. 
     Dying sends you back to your last successful sector clear.
 
-    Lutro Powered: Built using the LÖVE-inspired Lua framework
+    Lutro Powered: 
+    Built using the LÖVE-inspired Lua framework
 
 📂 Installation & Execution
 
